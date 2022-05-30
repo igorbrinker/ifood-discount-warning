@@ -14,9 +14,15 @@ def restaurants():
 
     for list in lists:
         name = list.find('span', class_='restaurant-name').text.replace('\n', '')
-        i = i + 1
-        print(name)
+        kind = list.find('div', class_='restaurant-card__info').text.replace('\n', '')
+        target_url = 'https://www.ifood.com.br' + list.find('a', class_='restaurant-card__link').get('href')
 
-    print('Restaurant count:', i)    
+        i = i + 1
+        print('\n--------------------')
+        print('\n' + name)
+        print(kind)
+        print(target_url)
+
+    print('\nRestaurant count:', i)    
 
 restaurants()
