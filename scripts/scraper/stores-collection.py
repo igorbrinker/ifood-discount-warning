@@ -2,6 +2,7 @@ from genericpath import exists
 from bs4 import BeautifulSoup
 import json
 import requests
+import re
 
 def restaurants():
     url = "https://www.ifood.com.br/delivery/canoas-RS"
@@ -25,10 +26,11 @@ def restaurants():
             'kind': kind,
             'url': target_url
         }
+
+        with open('../../src/data/stores-collection/stores.json', 'a+', encoding='utf8') as file:
+            json.dump(result, file, ensure_ascii = False, indent = 4, sort_keys = True)
         
 
-        with open('../../data/stores-collection/stores.json', 'a+', encoding='utf8') as f:
-            json.dump(result, f, ensure_ascii = False, indent = 2, sort_keys=True)
         
 
             # print('\n--------------------')
