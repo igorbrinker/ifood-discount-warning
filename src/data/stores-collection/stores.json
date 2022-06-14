@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "kind": "Açaí",
+        "name": "Mais Bah! Açaí",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/mais-bah-acai-estancia-velha/80cf59d5-3efc-4e82-9a3e-0c9ffef94c7e"
+    },
+    {
+        "id": 2,
+        "kind": "Bebidas",
+        "name": "Empório de Bebidas Madrid",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/emporio-de-bebidas-madrid-fatima/881afe23-e141-4962-8008-320eae42d51c"
+    },
+    {
+        "id": 3,
+        "kind": "Pizza",
+        "name": "Mr Jet Pizzaria",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/mr-jet-pizzaria-nossa-senhora-das-gracas/0e49adb4-91d3-44a9-8aa8-f28c9c88ba7e"
+    },
+    {
+        "id": 4,
+        "kind": "Bebidas",
+        "name": "Manus Beer",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/manus-beer-sao-jose/b3217dc1-394e-4225-b630-04ed4ecdf281"
+    },
+    {
+        "id": 5,
+        "kind": "Pizza",
+        "name": "CONCA PIZZAS",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/conca-pizzas-guajuviras/75ce8c63-b6c7-4a36-adf0-a4af90059164"
+    },
+    {
+        "id": 6,
+        "kind": "Congelados",
+        "name": "Cia do Mocotó",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/cia-do-mocoto-olaria/ad169ec2-a19e-4203-ab8d-881bd56f96d2"
+    },
+    {
+        "id": 7,
+        "kind": "Açaí",
+        "name": "Loucos Por Acai Delivery",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/loucos-por-acai-delivery-mathias-velho/5ac99259-484a-4805-8d48-66e0a0890eff"
+    },
+    {
+        "id": 8,
+        "kind": "Carnes",
+        "name": "Churrasquinho da Nazário Ltda",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/churrasquinho-da-nazario-ltda-olaria/f73e7b56-3d58-47bb-b816-c45e9c99ac2b"
+    },
+    {
+        "id": 9,
+        "kind": "Açaí",
+        "name": "Top Mais Açaí",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/top-mais-acai-niteroi/11528334-4b12-4bca-be5d-185d02858aae"
+    },
+    {
+        "id": 10,
+        "kind": "Doces & Bolos",
+        "name": "Chocoflix",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/chocoflix-niteroi/e7113d10-0e12-4a87-9f9a-29e5cd37e571"
+    },
+    {
+        "id": 11,
+        "kind": "Hambúrguer",
+        "name": "Casa do Hamburguer",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/casa-do-hamburguer-niteroi/0c6da083-eee4-4f1b-9186-a68e7ff94267"
+    },
+    {
+        "id": 12,
+        "kind": "Açaí",
+        "name": "Ateliê Sabor do Amor Açaí",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/atelie-sabor-do-amor-acai-mathias-velho/e06e0212-c277-4da9-b0cc-293eb427dcaa"
+    },
+    {
+        "id": 13,
+        "kind": "Bebidas",
+        "name": "Duff Bebidas",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/duff-bebidas-olaria/a71ebb70-1ef3-466c-929c-766d22605a46"
+    },
+    {
+        "id": 14,
+        "kind": "Lanches",
+        "name": "Talharinno Alimentos",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/talharinno-alimentos-niteroi/acbeab88-dc18-4c48-ac3f-eee5f0414419"
+    },
+    {
+        "id": 15,
+        "kind": "Açaí",
+        "name": "Parents Açaí  & Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/parents-acai---lanches-nossa-senhora-das-gracas/2ace54c6-a302-4ddd-ad79-2def5255390e"
+    },
+    {
+        "id": 16,
+        "kind": "Cafeteria",
+        "name": "Cafe Cultura - Canoas",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/cafe-cultura---canoas-marechal-rondon/f4fcff32-d6a3-48b1-b83b-e92af01c5e0f"
+    },
+    {
+        "id": 17,
+        "kind": "Lanches",
+        "name": "Xis Com Pão Tostado",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/xis-com-pao-tostado-guajuviras/f77a131f-0ebd-459f-b7dd-a36acb7be270"
+    },
+    {
+        "id": 18,
+        "kind": "Brasileira",
+        "name": "Tempero da Rosi",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/tempero-da-rosi-estancia-velha/cc7110f8-57c2-4195-bdfe-97a1dbf9c063"
+    },
+    {
+        "id": 19,
+        "kind": "Lanches",
+        "name": "Pitbull Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/pitbull-lanches-mathias-velho/3d2f1de9-b6fd-493b-b6fd-4e14106ba38c"
+    },
+    {
+        "id": 20,
+        "kind": "Açaí",
+        "name": "Nutri Açaí",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/nutri-acai-marechal-rondon/2eee6ebe-6bf2-42b3-ad09-6b498a529aae"
+    },
+    {
+        "id": 21,
+        "kind": "Padaria",
+        "name": "Padaria do Ferreira",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/padaria-do-ferreira-centro/e76c1b23-6233-4461-bc5b-230f981f18e2"
+    },
+    {
+        "id": 22,
+        "kind": "Lanches",
+        "name": "Família Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/familia-lanches-niteroi/5f4b4cdf-3e8f-4e03-ad67-40b571ab0fd3"
+    },
+    {
+        "id": 23,
+        "kind": "Bebidas",
+        "name": "Point Beer Bebidas",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/point-beer-bebidas-harmonia/18c1cb55-6f1b-4eba-b821-e4098f107612"
+    },
+    {
+        "id": 24,
+        "kind": "Açaí",
+        "name": "Cantinho das Meninas",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/cantinho-das-meninas-estancia-velha/f53959ba-907b-4a51-b173-3adfd147550e"
+    },
+    {
+        "id": 25,
+        "kind": "Doces & Bolos",
+        "name": "Sabrina Falcao Doces Exclusivos",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/sabrina-falcao-doces-exclusivos-centro/fbaed2f7-ac25-42f3-9054-eae935d91e7c"
+    },
+    {
+        "id": 26,
+        "kind": "Açaí",
+        "name": "Açaí & Churrasco Cjs Canoas",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/acai--churrasco-cjs-canoas-olaria/40a9386b-132f-49a3-8fff-51d7e32fed35"
+    },
+    {
+        "id": 27,
+        "kind": "Lanches",
+        "name": "Furacão Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/furacao-lanches-marechal-rondon/66b99939-80b9-4f18-9a74-da9db811af9b"
+    },
+    {
+        "id": 28,
+        "kind": "Brasileira",
+        "name": "Marmitas da Ju",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/marmitas-da-ju-nossa-senhora-das-gracas/db09dccf-8248-4c9f-b0b6-15a29c5ca8c9"
+    },
+    {
+        "id": 29,
+        "kind": "Lanches",
+        "name": "Casa de Panquecas Leons",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/casa-de-panquecas-leons-igara/692c5c2a-1353-4cfb-bc06-823d40c99442"
+    },
+    {
+        "id": 30,
+        "kind": "Padaria",
+        "name": "Áquila Bakery",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/aquila-bakery-harmonia/a34ef17d-24d3-4485-9b21-ba2a763e13fd"
+    },
+    {
+        "id": 31,
+        "kind": "Lanches",
+        "name": "Canto da Cris Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/canto-da-cris-lanches-guajuviras/c177023a-e6cb-4ce7-8cfa-15a08f596a79"
+    },
+    {
+        "id": 32,
+        "kind": "Pastel",
+        "name": "Ateliê Salds Gourmet Pastéis e Açaí",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/atelie-salds-gourmet-pasteis-e-acai-bairro-fatima/dbc9a468-a411-4a36-895f-ad44df7f488e"
+    },
+    {
+        "id": 33,
+        "kind": "Açaí",
+        "name": "Sushiai",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/sushiai-bairro-fatima/f0f10f69-3e94-4b07-9a75-991b1a9c94ba"
+    },
+    {
+        "id": 34,
+        "kind": "Pizza",
+        "name": "Cia do Sabor",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/cia-do-sabor-estancia-velha/2992a7d9-1644-442a-9244-9abedae2314a"
+    },
+    {
+        "id": 35,
+        "kind": "Brasileira",
+        "name": "Brasa Ville Burger",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/brasa-ville-burger-estancia-velha/b81e044c-b1ad-430d-9109-f7cde398219e"
+    },
+    {
+        "id": 36,
+        "kind": "Doces & Bolos",
+        "name": "Malu Deliciass",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/malu-deliciass-estancia-velha/c84c7147-c038-48c9-b4c6-13f8799dfa16"
+    },
+    {
+        "id": 37,
+        "kind": "Saudável",
+        "name": "Mel Com Manteiga Produtos Naturais",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/mel-com-manteiga-produtos-naturais-harmonia/796f20d6-bb60-4e43-8a15-b62ec7237735"
+    },
+    {
+        "id": 38,
+        "kind": "Lanches",
+        "name": "Inner 33 Burguer",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/inner-33-burguer-estancia-velha/1cbf8c3d-c9b4-464c-b368-cfb4e81abc82"
+    },
+    {
+        "id": 39,
+        "kind": "Bebidas",
+        "name": "Desconta Vinhos",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/desconta-vinhos-estancia-velha/d53b9842-1fde-4780-ad43-25e569d2fc6b"
+    },
+    {
+        "id": 40,
+        "kind": "Doces & Bolos",
+        "name": "Patisserie Doces",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/patisserie-doces-sao-jose/872a4030-7e39-4f7d-8b9d-46643f59113a"
+    },
+    {
+        "id": 41,
+        "kind": "Lanches",
+        "name": "Gas N Beer",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/gas-n-beer-niteroi/e21a239f-7c34-4e6f-89df-56d706dd574b"
+    },
+    {
+        "id": 42,
+        "kind": "Açaí",
+        "name": "Brigadeiros da Be",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/brigadeiros-da-be-estancia-velha/fd29bfdd-a8bd-4aa6-9dc1-7ab5d812e5f0"
+    },
+    {
+        "id": 43,
+        "kind": "Brasileira",
+        "name": "TO GO - Refeições, Salgados, Sobremesas",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/to-go---refeicoes-salgados-sobremesas-niteroi/791f79e4-8d02-48fe-ad73-377064dd7ad5"
+    },
+    {
+        "id": 44,
+        "kind": "Lanches",
+        "name": "Ponto 10 Lanches",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/ponto-10-lanches-mathias-velho/4293581a-8dcd-445c-a214-b8eea3c255ec"
+    },
+    {
+        "id": 45,
+        "kind": "Saudável",
+        "name": "Lagarta Di Salada",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/lagarta-di-salada-nossa-senhora-das-gracas/36f2adec-29d9-4a30-80c5-8fd744bcce4e"
+    },
+    {
+        "id": 46,
+        "kind": "Açaí",
+        "name": "Açaí e Lanches da Pretinha",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/acai-e-lanches-da-pretinha-niteroi/e5dc753b-99b5-41fa-9822-3b4f45bdc6d7"
+    },
+    {
+        "id": 47,
+        "kind": "Bebidas",
+        "name": "Bussbier Cerveja Artesanal e Bebidas",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/bussbier-cerveja-artesanal-e-bebidas-mato-grande/4332bee9-8b25-49e8-b2a0-08cb098cfc18"
+    },
+    {
+        "id": 48,
+        "kind": "Salgados",
+        "name": "Doce & Cia",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/doce--cia-niteroi/a7c9c523-da88-4f01-a0e2-d993f5e00870"
+    },
+    {
+        "id": 49,
+        "kind": "Doces & Bolos",
+        "name": "Bolos Caseiros Juju",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/bolos-caseiros-juju-guajuviras/298f64c7-1dcf-4a97-8792-f8a5637ff5fa"
+    },
+    {
+        "id": 50,
+        "kind": "Marmita",
+        "name": "Nutribem Marmitas",
+        "url": "https://www.ifood.com.br/delivery/canoas-rs/nutribem-marmitas-guajuviras/0f271559-193d-4327-991f-d4e66f8f9457"
+    }
+]

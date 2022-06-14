@@ -14,6 +14,8 @@ def restaurants():
 
     i = 0
 
+    output = []
+
     for list in lists:
         name = list.find('span', class_='restaurant-name').text.replace('\n', '')
         kind = list.find('div', class_='restaurant-card__info').text.replace('\n', '')
@@ -21,14 +23,18 @@ def restaurants():
         
         i = i + 1
 
-        result = {
+        data = {
+            'id': i,
             'name': name,
             'kind': kind,
             'url': target_url
         }
 
-        with open('../../src/data/stores-collection/stores.json', 'a+', encoding='utf8') as file:
-            json.dump(result, file, ensure_ascii = False, indent = 4, sort_keys = True)
+        output.append(data)
+
+
+    with open('../../src/data/stores-collection/stores.json', 'a+', encoding='utf8') as file:
+        json.dump(output, file, ensure_ascii = False, indent = 4, sort_keys = True)
         
 
         
