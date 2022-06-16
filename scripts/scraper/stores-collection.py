@@ -7,7 +7,6 @@ import re
 def restaurants():
     url = "https://www.ifood.com.br/delivery/canoas-RS"
     page = requests.get(url)
-    # print(page, " for url", url)
 
     bfs = BeautifulSoup(page.content, 'html.parser')
     lists = bfs.find_all('li', class_='restaurants-list__item-wrapper')
@@ -21,7 +20,7 @@ def restaurants():
         kind = list.find('div', class_='restaurant-card__info').text.replace('\n', '')
         target_url = 'https://www.ifood.com.br' + list.find('a', class_='restaurant-card__link').get('href')
         
-        i = i + 1
+        i+= 1
 
         data = {
             'id': i,
@@ -35,14 +34,6 @@ def restaurants():
 
     with open('../../src/data/stores-collection/stores.json', 'a+', encoding='utf8') as file:
         json.dump(output, file, ensure_ascii = False, indent = 4, sort_keys = True)
-        
-
-        
-
-            # print('\n--------------------')
-            # print('\n' + name)
-            # print(kind)
-            # print(target_url)
 
     print('\nRestaurant count:', i) 
 
