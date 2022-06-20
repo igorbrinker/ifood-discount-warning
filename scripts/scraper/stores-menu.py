@@ -29,30 +29,48 @@ def menu():
         driver.get(target_url)
         time.sleep(10)
         page = driver.page_source
-        bfs = BeautifulSoup(page)
+        bfs = BeautifulSoup(page, features='lxml')
         lists = bfs.find_all('main', class_='main-layout')
 
         for list in lists:
+            products = []
             try:
                 restaurant_name = list.find('h1', class_='merchant-info__title').text
-                # print(restaurant_name)
-                time.sleep(20)
+                menu = list.find_all('div', class_='restaurant-column')
+                
+                for item in menu:
+                    product_name = item.find('h3', class_='dish-card__description').text
+                    product_description = item.find('span', class_='dish-card__details').text
+                    product_price = item.find('span', class_='dish-card__price').text
+
+                    product = {
+                        "product_name": product_name,
+                        "product_description": product_description, 
+                        "product_price":product_price
+                    }
+
+                    products.append(product)
+                    
+                time.sleep(10)
                 i+= 1
 
             except AttributeError:
                 restaurant_name = list.find('h1', class_='market-header__title').text
+
                 # print(restaurant_name)
                 time.sleep(20)
                 i+= 1
-            
+
             data = {
-                "restaurant_name": restaurant_name
+                "restaurant_name": restaurant_name,
+                "products": products
             }
+
 
             output.append(data)
 
     with open('../../src/data/stores-menu/stores-menu.json', 'a+', encoding='utf8') as file:
-        json.dump(output, file, ensure_ascii = False, indent = 4, sort_keys = True)
+        json.dump(output, file, ensure_ascii = False, indent = 6, sort_keys = True)
 
     driver.quit()
         

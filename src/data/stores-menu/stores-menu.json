@@ -1,152 +1,1091 @@
 [
-    {
-        "restaurant_name": "Mais Bah! Açaí"
-    },
-    {
-        "restaurant_name": "Empório de Bebidas Madrid"
-    },
-    {
-        "restaurant_name": "Mr Jet Pizzaria"
-    },
-    {
-        "restaurant_name": "Manus Beer"
-    },
-    {
-        "restaurant_name": "Conca Pizzas"
-    },
-    {
-        "restaurant_name": "Cia do Mocotó"
-    },
-    {
-        "restaurant_name": "Loucos Por Acai Delivery"
-    },
-    {
-        "restaurant_name": "Churrasquinho da Nazário Ltda"
-    },
-    {
-        "restaurant_name": "Top Mais Açaí"
-    },
-    {
-        "restaurant_name": "Chocoflix"
-    },
-    {
-        "restaurant_name": "Casa do Hamburguer"
-    },
-    {
-        "restaurant_name": "Ateliê Sabor do Amor Açaí"
-    },
-    {
-        "restaurant_name": "Duff Bebidas"
-    },
-    {
-        "restaurant_name": "Talharinno Alimentos"
-    },
-    {
-        "restaurant_name": "Parents Açaí  & Lanches"
-    },
-    {
-        "restaurant_name": "Cafe Cultura - Canoas"
-    },
-    {
-        "restaurant_name": "Xis Com Pão Tostado"
-    },
-    {
-        "restaurant_name": "Tempero da Rosi"
-    },
-    {
-        "restaurant_name": "Pitbull Lanches"
-    },
-    {
-        "restaurant_name": "Nutri Açaí"
-    },
-    {
-        "restaurant_name": "Padaria do Ferreira"
-    },
-    {
-        "restaurant_name": "Família Lanches"
-    },
-    {
-        "restaurant_name": "Point Beer Bebidas"
-    },
-    {
-        "restaurant_name": "Cantinho das Meninas"
-    },
-    {
-        "restaurant_name": "Sabrina Falcao Doces Exclusivos"
-    },
-    {
-        "restaurant_name": "Açaí & Churrasco Cjs Canoas"
-    },
-    {
-        "restaurant_name": "Furacão Lanches"
-    },
-    {
-        "restaurant_name": "Marmitas da Ju"
-    },
-    {
-        "restaurant_name": "Casa de Panquecas Leons"
-    },
-    {
-        "restaurant_name": "Áquila Bakery"
-    },
-    {
-        "restaurant_name": "Canto da Cris Lanches"
-    },
-    {
-        "restaurant_name": "Ateliê Salds Gourmet Pastéis e Açaí"
-    },
-    {
-        "restaurant_name": "Sushiai"
-    },
-    {
-        "restaurant_name": "Cia do Sabor"
-    },
-    {
-        "restaurant_name": "Brasa Ville Burger"
-    },
-    {
-        "restaurant_name": "Malu Deliciass"
-    },
-    {
-        "restaurant_name": "Mel Com Manteiga Produtos Naturais"
-    },
-    {
-        "restaurant_name": "Inner 33 Burguer"
-    },
-    {
-        "restaurant_name": "Desconta Vinhos"
-    },
-    {
-        "restaurant_name": "Patisserie Doces"
-    },
-    {
-        "restaurant_name": "Gas N Beer"
-    },
-    {
-        "restaurant_name": "Brigadeiros da Be"
-    },
-    {
-        "restaurant_name": "TO GO - Refeições, Salgados, Sobremesas"
-    },
-    {
-        "restaurant_name": "Ponto 10 Lanches"
-    },
-    {
-        "restaurant_name": "Lagarta Di Salada"
-    },
-    {
-        "restaurant_name": "Açaí e Lanches da Pretinha"
-    },
-    {
-        "restaurant_name": "Bussbier Cerveja Artesanal e Bebidas"
-    },
-    {
-        "restaurant_name": "Doce & Cia"
-    },
-    {
-        "restaurant_name": "Bolos Caseiros Juju"
-    },
-    {
-        "restaurant_name": "Nutribem Marmitas"
-    }
+      {
+            "products": [
+                  {
+                        "product_description": "Açaí polpanorte com 2 complementos grátis. Porção perfeita para crianças.",
+                        "product_name": "Copo Kids 200ml",
+                        "product_price": "R$ 11,90"
+                  },
+                  {
+                        "product_description": "Açaí Polpanorte com 3 Complementos Grátis",
+                        "product_name": "Copo 300ml",
+                        "product_price": "R$ 14,90"
+                  },
+                  {
+                        "product_description": "Açaí Polpanorte com 3 complementos grátis",
+                        "product_name": "Copo 500ml",
+                        "product_price": "R$ 19,90"
+                  },
+                  {
+                        "product_description": "Açaí Polpanorte com 4 Complementos Grátis",
+                        "product_name": "Copo 700ml",
+                        "product_price": "R$ 24,90"
+                  }
+            ],
+            "restaurant_name": "Mais Bah! Açaí"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "",
+                        "product_name": "2936-Guaraná fruki 350ml ",
+                        "product_price": "R$ 4,50"
+                  },
+                  {
+                        "product_description": "",
+                        "product_name": "3458-água tônica antártica",
+                        "product_price": "R$ 6,00"
+                  },
+                  {
+                        "product_description": "",
+                        "product_name": "3459-água tônica schweppes",
+                        "product_price": "R$ 6,00"
+                  },
+                  {
+                        "product_description": "",
+                        "product_name": "Coca Cola 600 ml",
+                        "product_price": "R$ 6,90"
+                  }
+            ],
+            "restaurant_name": "Mr Jet Pizzaria"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "",
+                        "product_name": "6 FATIAS (6 PEDAÇOS)",
+                        "product_price": "A partir de  R$ 20,90"
+                  }
+            ],
+            "restaurant_name": "Conca Pizzas"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "",
+                        "product_name": "750 ml congelado",
+                        "product_price": "R$ 35,00"
+                  },
+                  {
+                        "product_description": "Na promoção cada uma sai a R$ 25.",
+                        "product_name": "Mocotó 4 porções 750ml",
+                        "product_price": "R$ 100,00"
+                  }
+            ],
+            "restaurant_name": "Cia do Mocotó"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "2 copos de 330 Ml",
+                        "product_name": "Combo Kids",
+                        "product_price": "R$ 26,00"
+                  },
+                  {
+                        "product_description": "2 copos de 550 ml",
+                        "product_name": "Super combo",
+                        "product_price": "R$ 38,50R$ 43,90"
+                  }
+            ],
+            "restaurant_name": "Loucos Por Acai Delivery"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "",
+                        "product_name": "Batata frita 250g",
+                        "product_price": "R$ 17,00"
+                  },
+                  {
+                        "product_description": "",
+                        "product_name": "Batata frita 500g",
+                        "product_price": "R$ 32,00"
+                  },
+                  {
+                        "product_description": "Pão baguete",
+                        "product_name": "Kachurrasco",
+                        "product_price": "R$ 18,00"
+                  },
+                  {
+                        "product_description": "Pão baguete",
+                        "product_name": "Kachurrasco duplo",
+                        "product_price": "A partir de  R$ 22,00"
+                  }
+            ],
+            "restaurant_name": "Churrasquinho da Nazário Ltda"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "",
+                        "product_name": "300 ml",
+                        "product_price": "R$ 13,00"
+                  },
+                  {
+                        "product_description": "",
+                        "product_name": "400 ml",
+                        "product_price": "R$ 15,50"
+                  },
+                  {
+                        "product_description": "",
+                        "product_name": "500 ml",
+                        "product_price": "R$ 17,80"
+                  },
+                  {
+                        "product_description": "",
+                        "product_name": "700 ml",
+                        "product_price": "R$ 23,00"
+                  }
+            ],
+            "restaurant_name": "Top Mais Açaí"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "1 Copo Supremo + 2 Brownie de Nutella. Combo para amantes de Nutella.",
+                        "product_name": "Combo Supremacia",
+                        "product_price": "R$ 43,99R$ 47,90"
+                  },
+                  {
+                        "product_description": "1 Copo Especial Brownie + 1 Copo Supremo",
+                        "product_name": "Combo Brownie Supremo",
+                        "product_price": "R$ 44,99R$ 47,90"
+                  },
+                  {
+                        "product_description": "Leve 2 e Pague menos com este maravilhoso combo! Aproveite esta oportunidade antes que acabe!",
+                        "product_name": "Combo Choco+ (Especial Brownie)",
+                        "product_price": "R$ 37,99R$ 40,00"
+                  },
+                  {
+                        "product_description": "A Melhor combinação de todas! Neste combo você leva 1 copo especial brownie e 1 copo especial morango, tem como ficar melhor?!",
+                        "product_name": "Combo Brownie Morango",
+                        "product_price": "R$ 39,99R$ 42,00"
+                  },
+                  {
+                        "product_description": "Copo brownie com Brigadeiro Gourmet. Escolha seu sabor favorito. Feito em Copo de 300ml",
+                        "product_name": "Copo Brownie",
+                        "product_price": "R$ 17,99"
+                  },
+                  {
+                        "product_description": "Copos especiais exclusivos da Chocoflix. Maravilhosamente únicos. O Copo Brownie é todo feito em camadas, começando com a Ganache Laka Oreo que é feita para dar sabor e suavizar o doce, não deixando o copo enjoativo, mas sim viciante. \nO Brigadeiro e Branquinho são cremosos e deixados em ponto de colher. O copo fica perfeito recheado com o novo Brownie de chocolate da Chocoflix, que  possuí uma receita única e especial.",
+                        "product_name": "Copo Especial Brownie",
+                        "product_price": "R$ 20,00"
+                  }
+            ],
+            "restaurant_name": "Chocoflix"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Pão, hamburguer,Bacon, Queijo cheddar, Tomate, Alface, Molho Especial, ketchup Maionese, Mostarda + batata frita",
+                        "product_name": "Pantera Negra",
+                        "product_price": "R$ 21,99R$ 24,99"
+                  },
+                  {
+                        "product_description": "Pão, 2 carnes Smash, Queijo cheddar, batata Ruffles, tomate, alface, Picles, Molho Especial, Maionese, Ketchup, Mostarda, + Batata Frita",
+                        "product_name": "Homem-Aranha",
+                        "product_price": "R$ 22,49R$ 24,99"
+                  },
+                  {
+                        "product_description": "Pão, carne, Queijo cheddar, Tomate, Alface, Molho Especial, ketchup Maionese, Mostarda + Batata Frita + Refri 200 Ml",
+                        "product_name": "Combo",
+                        "product_price": "R$ 17,99"
+                  },
+                  {
+                        "product_description": "Pão, 2carnes, queijo, molho especial, maionese, ketchup, mostarda + batata frita",
+                        "product_name": "Doutor estranho",
+                        "product_price": "R$ 22,00"
+                  }
+            ],
+            "restaurant_name": "Casa do Hamburguer"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "3 Acompanhamentos simples gratuitos",
+                        "product_name": "Açaí 330ml",
+                        "product_price": "R$ 13,00"
+                  },
+                  {
+                        "product_description": "3 Acompanhamentos simples gratuitos",
+                        "product_name": "Açaí 440ml",
+                        "product_price": "R$ 15,00"
+                  }
+            ],
+            "restaurant_name": "Ateliê Sabor do Amor Açaí"
+      },
+      {
+            "products": [],
+            "restaurant_name": "Duff Bebidas"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Suculento por dentro e crocante por fora esse é o nosso frango frito feito com filé de sobrecoxa e para deixar ainda mais completo essa porção acompanha \n+ Polenta frita com queijo.\n+ 1 uma maionese especial da casa cortesia.\n\nPeso total do kit é de 1kg incluindo frango e as polentinhas fritas.\n\nServe de 3 até 4 pessoas",
+                        "product_name": "1 Kg de Frango-Frito com Polenta",
+                        "product_price": "R$ 65,90R$ 80,00"
+                  },
+                  {
+                        "product_description": "Suculento por dentro e crocante por fora esse é o nosso frango frito feito com filé de sobrecoxa e para completar esse prato acompanha \n+ Mandioquinha frita.\n+ 1 uma maionese especial da casa cortesia.\n\nPeso total do kit é de 1kg incluindo frango e Mandioquinha.\n\nServe de 3 até 4 pessoas",
+                        "product_name": "1 Kg de Frango-Frito com Mandioquinha Frita",
+                        "product_price": "R$ 65,90R$ 79,00"
+                  },
+                  {
+                        "product_description": "Escondidinho de moranga recheado com carne, feito com produtos naturais selecionados. \nEste produto vem congelado, mas a embalagem é própria para Micro-ondas, Atenção remova toda a película protetora antes de colocar no micro-ondas. \nPeso liquido 400g",
+                        "product_name": "Escondidinho de Moranga congelado 400g",
+                        "product_price": "R$ 16,90R$ 19,90"
+                  },
+                  {
+                        "product_description": "Escondidinho de Batata-Doce recheado com frango, feito com produtos naturais selecionados. \nEste produto vem congelado, mas a embalagem é própria para Micro-ondas, Atenção remova toda a película protetora antes de colocar no micro-ondas. \nPeso liquido 400g",
+                        "product_name": "Escondidinho de Batata Doce 400g congelado",
+                        "product_price": "R$ 16,90R$ 19,90"
+                  },
+                  {
+                        "product_description": "Ala-minuta é composta por arroz, feijão, ovo frito, um bife de carne grelhado suculento coberto por cebolas feitas na chapa e para completar uma maravilhosa  generosa porção de batatas-frita.\n\nO Feijão vem em um pote separado para não misturar com os outros itens da ala-minuta e a bandeja que servimos a refeição é de 3 divisórias.",
+                        "product_name": "2 x Ala-minuta Acebolada (Duas Ala-minutas)",
+                        "product_price": "R$ 72,00R$ 79,80"
+                  },
+                  {
+                        "product_description": "Ala-minuta é composta por arroz, feijão, ovo frito, um bife de carne suculento coberto de queijo derretido e para completar uma maravilhosa  generosa porção de batatas-frita.",
+                        "product_name": "2 x Ala-minuta de carne com queijo (Duas Ala-minutas)",
+                        "product_price": "R$ 72,00R$ 79,80"
+                  }
+            ],
+            "restaurant_name": "Talharinno Alimentos"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Escolha 3 opções Turbinadas grátis",
+                        "product_name": "2 Copos Açaí 500ml Especial Namorados",
+                        "product_price": "R$ 50,00R$ 57,00"
+                  },
+                  {
+                        "product_description": "2 copos Açaí  Leite em Pó e Leite Condensado",
+                        "product_name": "2 copos Açaí Polpa Norte 330ml ambos com Leite em Pó e Leite Condensado",
+                        "product_price": "R$ 25,00R$ 28,00"
+                  },
+                  {
+                        "product_description": "2 copos 330ml Banana e Leite Condensado. Não trocamos os complementis",
+                        "product_name": "2 copos Açaí Polpa Norte 330ml Banana e Leite Condensado",
+                        "product_price": "R$ 25,00R$ 28,00"
+                  },
+                  {
+                        "product_description": "2 copos de 330ml ambos com Banana e Leite em Pó. Não alteramos os conplementos.",
+                        "product_name": "2 copos Açaí Polpa Norte de 330ml Banana e Leite em Pó",
+                        "product_price": "R$ 25,00R$ 28,00"
+                  },
+                  {
+                        "product_description": "3 Acompanhamentos Grátis - vão em todas as camadas e cobertura, não colocamos acompanhamentos somente na cobertura.",
+                        "product_name": "Copo 330ml Açaí Polpa Norte",
+                        "product_price": "R$ 14,00R$ 15,00"
+                  },
+                  {
+                        "product_description": "3 acompanhamentos Grátis - vão em todas as camadas e cobertura, não colocamos acompanhamentos somente na cobertura.",
+                        "product_name": "Copo 550ml Açaí Polpa Norte",
+                        "product_price": "R$ 18,00R$ 19,00"
+                  }
+            ],
+            "restaurant_name": "Parents Açaí  & Lanches"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Uma dose de espresso, a base de tudo.\n100ml",
+                        "product_name": "Espresso Médio",
+                        "product_price": "R$ 11,00"
+                  },
+                  {
+                        "product_description": "Espresso com leite vaporizado.\n180ml",
+                        "product_name": "Espresso Médio com Leite",
+                        "product_price": "R$ 12,00"
+                  },
+                  {
+                        "product_description": "Espresso extraído sobre a calda de chocolate, leite vaporizado e cobertura de calda de chocolate.\n200ml",
+                        "product_name": "Café Mocha",
+                        "product_price": "R$ 18,00"
+                  },
+                  {
+                        "product_description": "Espresso pequeno, canela e leite vaporizado.\n180ml",
+                        "product_name": "Cappuccino Italiano",
+                        "product_price": "R$ 18,00"
+                  }
+            ],
+            "restaurant_name": "Cafe Cultura - Canoas"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Hambúrguer: pão, maionese caseira, alface, tomate, bife, queijo mussarela e cheddar.\n150g de batata frita.",
+                        "product_name": "Hambúrguer + fritas",
+                        "product_price": "R$ 17,00R$ 18,00"
+                  },
+                  {
+                        "product_description": "Pão de xis, maionese caseira, alface, milho, ervilha,ovo, frango desfiado e cebola na chapa.",
+                        "product_name": "X - frango acebolado",
+                        "product_price": "R$ 20,00"
+                  },
+                  {
+                        "product_description": "Pão de xis, maionese caseira, alface, milho, ervilha,bife de carne (150g), frango , calabresa, coração, bacon, cheddar e ovo.",
+                        "product_name": "X- tudo",
+                        "product_price": "R$ 28,00"
+                  }
+            ],
+            "restaurant_name": "Xis Com Pão Tostado"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Arroz, feijão, bife de gado à milanesa, massa, purê de batata e salada.\n\nSalada e feijão, são enviadas em potes separadamente.",
+                        "product_name": "Marmita de Gado á milanesa",
+                        "product_price": "R$ 23,00"
+                  },
+                  {
+                        "product_description": "Arroz, feijão, bife de frango à milanesa, massa, purê de batata e salada.\n\nSalada e feijão, são enviadas em potes separadamente.",
+                        "product_name": "Marmita frango à milanesa",
+                        "product_price": "R$ 20,00"
+                  },
+                  {
+                        "product_description": "",
+                        "product_name": "Bife de Gado extra",
+                        "product_price": "R$ 8,00"
+                  },
+                  {
+                        "product_description": "",
+                        "product_name": "Ovo frito",
+                        "product_price": "R$ 3,00"
+                  }
+            ],
+            "restaurant_name": "Tempero da Rosi"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Pão cervejão, strogonoff de file de Frango, maionese caseira, tomate, alface, ovo, queijo e fritas dentro.",
+                        "product_name": "Bauru Strogonoff Frango",
+                        "product_price": "R$ 29,00"
+                  },
+                  {
+                        "product_description": "Pão cervejão, strogonoff com tiras de calabresa, maionese caseira, tomate, alface, queijo, ovo e fritas dentro.",
+                        "product_name": "Bauru Strogonoff de Calabresa",
+                        "product_price": "R$ 29,00"
+                  },
+                  {
+                        "product_description": "Pão cervejão, bacon picado, bife hamburguer, maionese caseira, tomate, alface, queijo, ovo e fritas dentro.",
+                        "product_name": "Bauru bacon",
+                        "product_price": "R$ 29,00"
+                  },
+                  {
+                        "product_description": "Pão cervejão, calabresa picada, maionese caseira, tomate, alface, queijo, ovo e fritas dentro.",
+                        "product_name": "Bauru calabresa",
+                        "product_price": "R$ 25,00"
+                  }
+            ],
+            "restaurant_name": "Pitbull Lanches"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "1 Açaí de 500ml com Kit Kat Preto, creme de chocolate e tubete de chocolate + 1 Açaí de 500ml com Kit Kat Branco, creme leitinho e chocoball. Na compra deste combo Duo Kit Kat você ganha um Trio de bombons Ferrero Rocher.",
+                        "product_name": "Combo Duo Kit Kat - Brinde 1 Trio de Ferrero Rocher",
+                        "product_price": "R$ 50,00R$ 62,00"
+                  },
+                  {
+                        "product_description": "2 Açaís de 300ml cada, com banana e leite em pó.",
+                        "product_name": "2 de 300ml Banana e Leite em pó",
+                        "product_price": "R$ 38,00R$ 45,80"
+                  },
+                  {
+                        "product_description": "Açaí, Creme Leitinho, Leite em pó, Chocoball, Ouro Branco, Tubete de Chocolate.",
+                        "product_name": "Ouro Branco",
+                        "product_price": "R$ 25,00R$ 30,00"
+                  },
+                  {
+                        "product_description": "Açaí, Creme Oreo, Cookies em gota, Biscoito Oreo, Tubete de Chocolate.",
+                        "product_name": "Oreo",
+                        "product_price": "R$ 25,00R$ 30,00"
+                  },
+                  {
+                        "product_description": "Escolha até 4  acompanhamentos grátis.",
+                        "product_name": "Açaí 300ml",
+                        "product_price": "R$ 20,00"
+                  },
+                  {
+                        "product_description": "Escolha até 4 acompanhamentos grátis.",
+                        "product_name": "Açaí 400ml",
+                        "product_price": "R$ 25,00"
+                  }
+            ],
+            "restaurant_name": "Nutri Açaí"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "4 pães francês, 230g de salgados sortidos e 1 cuca artesanal.",
+                        "product_name": "Kit café 1",
+                        "product_price": "R$ 18,00"
+                  },
+                  {
+                        "product_description": "4 trancinhas viradas,1 cuca recheada e 1 pão caseiro.",
+                        "product_name": "Kit Café manhã/tarde",
+                        "product_price": "R$ 18,00"
+                  },
+                  {
+                        "product_description": "Salgados de festa sortidos",
+                        "product_name": "Kit de Salgados sortidos - 50 unidades",
+                        "product_price": "R$ 37,50"
+                  },
+                  {
+                        "product_description": "Sanduiche natural, mousse de chocolate e suco Del Valle .",
+                        "product_name": "Kit Lanche",
+                        "product_price": "R$ 13,50"
+                  }
+            ],
+            "restaurant_name": "Padaria do Ferreira"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Garrafa 200ml",
+                        "product_name": "Refrigerante Pepsi 200ml",
+                        "product_price": "R$ 4,00"
+                  },
+                  {
+                        "product_description": "",
+                        "product_name": "Bife extra",
+                        "product_price": "R$ 10,00"
+                  },
+                  {
+                        "product_description": "",
+                        "product_name": "Maionese caseira",
+                        "product_price": "R$ 6,00"
+                  }
+            ],
+            "restaurant_name": "Família Lanches"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Com 3 acompanhamentos grátis",
+                        "product_name": "Açaí 330 ml",
+                        "product_price": "R$ 16,00"
+                  },
+                  {
+                        "product_description": "Com 4 acompanhamentos grátis",
+                        "product_name": "Açaí 550 ml",
+                        "product_price": "R$ 22,00"
+                  },
+                  {
+                        "product_description": "Com 4 acompanhamentos grátis",
+                        "product_name": "Açaí 770 ml",
+                        "product_price": "R$ 28,00"
+                  }
+            ],
+            "restaurant_name": "Cantinho das Meninas"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Bombom recheado de brigadeiro branco e morango inteiro, coberto com uma fina camada de chocolate nobre ao leite.\n\n---- tags\nbombom, bombou, bonbom, bombon, nobre, morango, chocolate, meio amargo, branco, nobre, promocao promoção cupon cupom desconto oferta combo melhor doce bolo barato Nutella nutela brownie braune brawne chocolate taxa gratis entrega grátis Ninho morango sobremesa sorvete bombom",
+                        "product_name": "Bombom Chocolate ao Leite",
+                        "product_price": "R$ 9,90R$ 10,90"
+                  },
+                  {
+                        "product_description": "Cone crocante com recheio cremoso de creme moça e Nutella, coberto por dentro com chocolate branco nobre e por fora com chocolate meio amargo, decoraco com Blossoms Callebaut.\n\n----\ntags: promocao promoção cupon cupom desconto oferta combo melhor doce bolo barato Nutella nutela brownie braune brawne chocolate taxa gratis entrega grátis Ninho morango sobremesa sorvete bombom, rafaelo, rafaello, coco, chocolate branco",
+                        "product_name": "Cone Kinder com Nutella",
+                        "product_price": "R$ 12,90R$ 13,50"
+                  },
+                  {
+                        "product_description": "Brownie de chocolate meio amargo com pedaços de chocolate Sticadinho \n.\n.\n.\n######## Tags ########\npromocao promoção cupon cupom desconto oferta combo melhor doce bolo barato Nutella nutela brownie braune brawne chocolate taxa gratis entrega grátis Ninho morango sobremesa sorvete bombom",
+                        "product_name": "Brownie Sticadinho",
+                        "product_price": "R$ 9,90"
+                  },
+                  {
+                        "product_description": "Brownie de chocolate com fina camada de chocolate ao leite nobre por cima.\n\n---- tags\nbrigadeiro, chocolate, chocolate branco, cremeux, cremoso, massa aveludada, fatia, bolo, fatia de bolo, fatias de bolo, bolos, morangos, morango, morangos in natura,  in natura, promocao promoção cupon cupom desconto oferta combo melhor doce bolo barato Nutella nutela brownie braune brawne chocolate taxa gratis entrega grátis Ninho morango sobremesa sorvete bombom",
+                        "product_name": "Brownie de Chocolate",
+                        "product_price": "R$ 8,90"
+                  }
+            ],
+            "restaurant_name": "Sabrina Falcao Doces Exclusivos"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Obs.: Escolha seus complementos até 04 grátis.\nCreme de avelã\nbanana\nLimão\nAveia\nMel\nOvomaltine\nGotinhas de Chocolate\nMorango\nGranola\nLeite em pó\nOvomaltine\nLeite Condensado\nPaçoca\nFlocos de chocolate\nCalda de chocolate\nCalda de Morango\nCalda de Caramelo\nCookies Granulados\nGranulado crocante Mesclado\nBala Sete\nBala Goma Minhoca\nBala Goma Jujuba\nNescau\nNeston\nCreme de leite Ninho\nOreo",
+                        "product_name": "Açaí de 300ml",
+                        "product_price": "R$ 13,50"
+                  },
+                  {
+                        "product_description": "Açaí de 500ml com até 4 complementos grátis.",
+                        "product_name": "Açaí  de 500ml",
+                        "product_price": "R$ 17,50"
+                  },
+                  {
+                        "product_description": "Açaí de 700ml com 4 complementos grátis.",
+                        "product_name": "Açaí de 700ml",
+                        "product_price": "R$ 24,50"
+                  },
+                  {
+                        "product_description": "Açai de 1k com até 4complemento grátis.",
+                        "product_name": "Açaí de 1k",
+                        "product_price": "R$ 34,50"
+                  }
+            ],
+            "restaurant_name": "Açaí & Churrasco Cjs Canoas"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Pão,  hambúrguer,maionese verde, queijo, ovo, milho, ervilha ,tomate e alface",
+                        "product_name": "X salada",
+                        "product_price": "A partir de  R$ 26,90"
+                  },
+                  {
+                        "product_description": "Pão, frango, Catupiry,maionese, queijo, ovo, milho, ervilha ,tomate e alface",
+                        "product_name": "X frango c/Catupiry",
+                        "product_price": "A partir de  R$ 27,90"
+                  },
+                  {
+                        "product_description": "Pão, 150 gramas de calabreza, maionese, queijo, ovo, milho, ervilha, tomate e alface",
+                        "product_name": "X calabreza",
+                        "product_price": "A partir de  R$ 27,90"
+                  },
+                  {
+                        "product_description": "Pão De Hamburguer, Maionese Verde, 150 Gr. De Calabresa., Queijo, Cebola, Batata Rustica E Molho Barbecue",
+                        "product_name": "Hamburguer Furacão De Calabresa",
+                        "product_price": "R$ 28,90R$ 40,90"
+                  },
+                  {
+                        "product_description": "Pão Brioche, hamburguer de 150 gr. ,molho especial, queijo mussarela, bacon, cebola caramelizada, tomate, alface e fritas",
+                        "product_name": "Hamburguer furacão com fritas",
+                        "product_price": "R$ 28,90R$ 35,90"
+                  },
+                  {
+                        "product_description": "Pão de amburguer , 2 hambúrguer de carne 150g, molho especial, queijo mussarela, cheddar, bacon, cebola caramelizada, tomate, alface",
+                        "product_name": "Hamburguer furacão duplo",
+                        "product_price": "R$ 29,90R$ 39,90"
+                  }
+            ],
+            "restaurant_name": "Furacão Lanches"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Acompanha: Arroz, feijão, batata, ovo e salada. O feijao vai em embalagem separada.",
+                        "product_name": "Alaminuta Alaminuta de gado",
+                        "product_price": "R$ 30,00"
+                  },
+                  {
+                        "product_description": "Acompanha: Arroz, feijão, batata, ovo e salada. O feijão vai em embalagem separada.",
+                        "product_name": "Alaminuta de frango",
+                        "product_price": "R$ 20,00R$ 25,00"
+                  },
+                  {
+                        "product_description": "Acompanha: Arroz, feijão, batata, ovo e salada",
+                        "product_name": "Alaminuta de frango á milanesa",
+                        "product_price": "R$ 28,00"
+                  },
+                  {
+                        "product_description": "Acompanha: Arroz, feijão, batata, ovo e salada",
+                        "product_name": "Alaminuta de frango á parmegiana",
+                        "product_price": "R$ 30,00"
+                  }
+            ],
+            "restaurant_name": "Marmitas da Ju"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "300g de panqueca refogada com especiarias, composta por calabresa e ricota.",
+                        "product_name": "Panqueca de calabresa",
+                        "product_price": "R$ 22,00"
+                  },
+                  {
+                        "product_description": "300g de panqueca de isca de alcatra  com especiarias, com creme de leite,ketchup ,coberto com molho vermelho ou branco  e finalizada com batata palha.",
+                        "product_name": "Panqueca de strogonoff de carne",
+                        "product_price": "R$ 30,00"
+                  },
+                  {
+                        "product_description": "300g de filé de frango com especiarias, creme de leite, ketchup, mostarda e molho inglês. Coberta com molho branco ou vermelho",
+                        "product_name": "Panqueca de strogonoff de frango",
+                        "product_price": "R$ 16,20R$ 18,00"
+                  },
+                  {
+                        "product_description": "300g de panqueca refogada com especiarias, composta por carne e uma fatia de mussarela. Coberta com molho vermelho ou branco e queijo ralado.",
+                        "product_name": "Panqueca de carne",
+                        "product_price": "R$ 17,90"
+                  }
+            ],
+            "restaurant_name": "Casa de Panquecas Leons"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Baguetinha de Casca Fina, com farinha nacional e italiana, água, fermento natural, fermento biológico e sal. \n\nTamanho: 22cm\n\nÉ a nossa versão, sem conservantes e aditivos químicos, do cacetinho (pão francês). Ideal para fazer um sanduiche, pão na chapa, etc. \n\nEla vai congelada e basta descongelar em temperatura ambiente por 10 minutos e estará pronto para o consumou pode aquecer de 2 a 4 minutos em fogo médio, para ter a casquinha crocante. \n\ntem casca fina e crocante se aquecido. \n\npeso aproximado: 90gr\nPeso kit: 540gr",
+                        "product_name": "Kit 6 Baguetinhas [pré-asssado & congelado]",
+                        "product_price": "R$ 16,90"
+                  },
+                  {
+                        "product_description": "Kit com 5 Baguettes Viennoise pre-assadas e congeladas feita com farinha importada e nacional, fermentação natural e biológica, manteiga, ovos orgânicos, açucar e sal. Possui casca e miolo macios. Ideal para um sanduiche. \n\nNão possui conservantes químicos, aditivos e melhorador de farinha. \n\nPeso aproximado unidade: 45g",
+                        "product_name": "Kit 6 Baguette viennoise",
+                        "product_price": "R$ 22,50"
+                  },
+                  {
+                        "product_description": "Pão rústico, tamanho Médio de aproximadamente 480g, feito com farinha importada e nacional, fermentação longa e natural (levain e biológico fresco). Possui casca crocante e miolo macio. \n\nNão possui conservantes químicos, aditivos e melhorador de farinha. \n\npeso aproximado: 480g\n\n***enviamos embalada em plástico filme, que embalamos logo após o assamento.\n\nO congelamento é realizado logo após o assamento, que garante uma vida util ao pão maior, e ao ser aquecido (regenerado) possui suas propriedades nutricionais, textura e crocância originais, graças a qualidade da farinha utilizada (Glutem Natural) e \n\nVocê desembala, descongela o pão e aquece o forno (elétrico ou a gás), por 10 minutos enquanto aquece o forno. Tempo de assamento de 5 a 6 minutos. Terá um pão macio por dentro e crocante por fora.",
+                        "product_name": "Médio [pré-assado & congelado]",
+                        "product_price": "R$ 15,90"
+                  }
+            ],
+            "restaurant_name": "Áquila Bakery"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Pão de xis, maionese caseira, milho,ervilha,tomate, alface, queijo, presunto ,ovo e bife de carne.",
+                        "product_name": "Xis salada",
+                        "product_price": "R$ 18,00"
+                  },
+                  {
+                        "product_description": "Pão de xis, maionese caseira, milho,ervilha,tomate, alface, queijo, presunto ,ovo e calabresa em pedaços.",
+                        "product_name": "Xis Calabresa",
+                        "product_price": "R$ 22,00"
+                  },
+                  {
+                        "product_description": "Pão de xis, maionese caseira, milho,ervilha,tomate, alface, queijo, presunto ,ovo, coração, frango, calabresa e carne.",
+                        "product_name": "Xis Tudo",
+                        "product_price": "R$ 28,00"
+                  },
+                  {
+                        "product_description": "Pão de cachorro quente, maionese caseira, milho, ervilha, tomate, alface, molho, linguiça e batata palha.",
+                        "product_name": "Cachorro Quente Linguiça",
+                        "product_price": "R$ 17,50"
+                  }
+            ],
+            "restaurant_name": "Canto da Cris Lanches"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Brócolis à moda Salds.\nEscolha seus acompanhamentos.",
+                        "product_name": "Pastel de Brócolis",
+                        "product_price": "R$ 15,91R$ 19,90"
+                  },
+                  {
+                        "product_description": "Tomate, mussarela e manjerição.\nEscolha seus acompanhamentos.",
+                        "product_name": "Pastel Marguerita",
+                        "product_price": "R$ 15,91R$ 19,90"
+                  },
+                  {
+                        "product_description": "Calabresa temperada à moda Salds.\nEscolha seus acompanhamentos.",
+                        "product_name": "Pastel de Calabresa",
+                        "product_price": "R$ 16,91R$ 19,90"
+                  },
+                  {
+                        "product_description": "Bacon à moda Salds.\nEscolha seus acompanhamentos.",
+                        "product_name": "Pastel de Bacon",
+                        "product_price": "R$ 16,91R$ 19,90"
+                  },
+                  {
+                        "product_description": "Carne moída temperada à moda Salds.\nEscolha seus acompanhamentos.",
+                        "product_name": "Pastel  de Carne",
+                        "product_price": "R$ 16,91R$ 19,90"
+                  },
+                  {
+                        "product_description": "Queijo Mussarela, cheddar, cremoso e provolone.\nEscolha seus acompanhamentos.",
+                        "product_name": "Pastel 4 queijos",
+                        "product_price": "R$ 21,90"
+                  }
+            ],
+            "restaurant_name": "Ateliê Salds Gourmet Pastéis e Açaí"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Shimeji com cebolinha e gergelim.",
+                        "product_name": "Porção Shimeji",
+                        "product_price": "R$ 19,90"
+                  },
+                  {
+                        "product_description": "Pepino - Gergelim e kani.",
+                        "product_name": "Sunomono",
+                        "product_price": "R$ 14,90"
+                  },
+                  {
+                        "product_description": "8 peças Uracrem , creme de atum , cream cheease e crispy de alho poró, cebolinha e couve.",
+                        "product_name": "Uracream",
+                        "product_price": "R$ 29,90"
+                  },
+                  {
+                        "product_description": "Salmão.",
+                        "product_name": "Uramaki 8 peças",
+                        "product_price": "R$ 29,90"
+                  }
+            ],
+            "restaurant_name": "Sushiai"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "1 pizza família 45cm, 1 pizza brotinho doce bem casado  ,  mais um refri 2 litros ou Coca Cola 1,5lt",
+                        "product_name": "Combo Família",
+                        "product_price": "R$ 109,99"
+                  },
+                  {
+                        "product_description": "Pizza com 25cm e serve 8 fatias, escolha até dois sabores\n\n\nFoto ilustrativa",
+                        "product_name": "Broto",
+                        "product_price": "R$ 29,90"
+                  }
+            ],
+            "restaurant_name": "Cia do Sabor"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "2 Brasa Burgers\n1 Cebola Australiana\n3 Porções de Fritas\n3 Molhos Extras\n3 Refris Latas",
+                        "product_name": "Combo Amor Perfeito",
+                        "product_price": "R$ 162,00"
+                  },
+                  {
+                        "product_description": "(Serve 3 Pessoas Satisfatóriamente)\n3 Brasa Burgers\n1 Cebola Australiana\n3 Porções de Fritas\n3 Molhos Extras\n3 Refris Latas",
+                        "product_name": "Combo Muito Amor",
+                        "product_price": "R$ 199,90"
+                  },
+                  {
+                        "product_description": "(Serve 3 Pessoas Satisfatóriamente)\n1 Brasa Burger (burger 180g)\n1 Brasa Monstro (2xburger 180g)\n1 Kachurrasco (espetinho de alcatra)\n1 Cebola Australiana\n3 Porções de Fritas\n3 Molhos Extras\n3 Refris Latas",
+                        "product_name": "Combo Irresistivel Amor",
+                        "product_price": "R$ 209,90"
+                  }
+            ],
+            "restaurant_name": "Brasa Ville Burger"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Massa de bolo molhadinho c/ muito recheio",
+                        "product_name": "Bolo de Pote",
+                        "product_price": "A partir de  R$ 16,00"
+                  },
+                  {
+                        "product_description": "",
+                        "product_name": "Brigadeirão",
+                        "product_price": "A partir de  R$ 13,00"
+                  },
+                  {
+                        "product_description": "Brownie Tradicional, cobertura de Brigadeiro e Branquinho.",
+                        "product_name": "Brownie",
+                        "product_price": "A partir de  R$ 16,00"
+                  },
+                  {
+                        "product_description": "",
+                        "product_name": "Dose de Alegria",
+                        "product_price": "A partir de  R$ 23,00"
+                  }
+            ],
+            "restaurant_name": "Malu Deliciass"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "50gr - Camomila em flor",
+                        "product_name": "Camomila",
+                        "product_price": "R$ 0,99"
+                  },
+                  {
+                        "product_description": "Prosaúde - Maca Peruana 60cps de 500mg",
+                        "product_name": "Maca Peruana 60cps",
+                        "product_price": "R$ 35,00"
+                  },
+                  {
+                        "product_description": "100gr - Mix de Frutas Vermelhas\nContém: Cranberry, Gojiberry, Morango, Cereja, Uva Passa preta e Blueberry.",
+                        "product_name": "Mix de Frutas Vermelhas",
+                        "product_price": "R$ 8,00"
+                  },
+                  {
+                        "product_description": "100gr - Damasco Turco",
+                        "product_name": "Damasco Turco",
+                        "product_price": "R$ 6,00"
+                  }
+            ],
+            "restaurant_name": "Mel Com Manteiga Produtos Naturais"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Escolha seu pão, 115g de Hambúrguer do Futuro, nossa deliciosa maionese da casa, queijo cheddar, cebola caramelizada, alface e tomate frescos. Você também pode escolher outro hambúrguer e pedir para trocar a carne.",
+                        "product_name": "Vegetariano",
+                        "product_price": "R$ 28,90R$ 32,00"
+                  },
+                  {
+                        "product_description": "Escolha seu pão, suculento blend de 100 g de hambúrguer de costela campeira, queijo prato, generosas fatias de bacon, cebola caramelizada, alface fresca e deliciosa maionese caseira da casa.",
+                        "product_name": "Roosevelt Smash",
+                        "product_price": "R$ 22,90R$ 24,90"
+                  },
+                  {
+                        "product_description": "Escolha seu pão, suculento blend de 100 g de hambúrguer de costela campeira, queijo cheddar, generosas fatias de bacon, deliciosa maionese caseira da casa, alface, tomate e cebola roxa frescas.",
+                        "product_name": "1933 Smash",
+                        "product_price": "R$ 22,90R$ 24,90"
+                  },
+                  {
+                        "product_description": "Escolha seu pão, suculento blend de 180 g de hambúrguer de costela campeira, queijo prato e cheddar, cebola caramelizada, deliciosa maionese caseira da casa e molho barbecue.",
+                        "product_name": "Clandestino",
+                        "product_price": "R$ 30,99R$ 33,50"
+                  },
+                  {
+                        "product_description": "Por + R$2,99 você leva 01 Porção de Nuggets Pequena + 01 Porção de Batata Palito Pequena + 01 Maionese caseira + 01 Refrigerante Fruki 350 ml.",
+                        "product_name": "Combo do Dia Burguer 180g",
+                        "product_price": "A partir de  R$ 31,89"
+                  },
+                  {
+                        "product_description": "Por + R$2,99 você leva 01 Porção de Nuggets Pequena + 01 Porção de Batata Palito Pequena + 01 Maionese caseira + 01 Refrigerante Fruki 350 ml.",
+                        "product_name": "Combo do Dia Smash 100g",
+                        "product_price": "A partir de  R$ 24,79"
+                  }
+            ],
+            "restaurant_name": "Inner 33 Burguer"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Caixa com visor transparente contendo 15 docinhos de 20g cada nos sabores chocolate, Nutella, cacau, romeu e julieta e café.\nAcompanha sacola decorada",
+                        "product_name": "Eu te amo",
+                        "product_price": "R$ 45,00"
+                  },
+                  {
+                        "product_description": "Caixa com visor transparente contendo 1 barra de Oreo recheada com branquinho e Nutella, 7 docinhos tradicionais com raspas de chocolate com escrita ` Te Amo´, acompanha mais uma sacola decorada",
+                        "product_name": "Te amo",
+                        "product_price": "R$ 55,00R$ 62,00"
+                  },
+                  {
+                        "product_description": "Agora você poderá mandar uma mensagem para uma pessoa especial. (Máximo de 10 palavras)",
+                        "product_name": "Tag de mensagem",
+                        "product_price": "R$ 0,50"
+                  }
+            ],
+            "restaurant_name": "Patisserie Doces"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Frango frito crocante, receita da casa.\nMais duas cocas lata zero ou normal.",
+                        "product_name": "Frango frito 6 peças + 2 cocas lata",
+                        "product_price": "R$ 45,00"
+                  },
+                  {
+                        "product_description": "Pastéis medindo 22x10cm bem recheado. \n\nSabores:\nCalabresa com queijo\nFrango com requeijao\nPizza\nQueijo com bacon\nQueijo",
+                        "product_name": "Pastel frito 22x10cm",
+                        "product_price": "R$ 22,00"
+                  },
+                  {
+                        "product_description": "Fritas 400g com cheddar e bacon",
+                        "product_name": "Porcão de fritas com cheddar e bacon",
+                        "product_price": "R$ 35,00"
+                  },
+                  {
+                        "product_description": "Anéis de Cebola 400g",
+                        "product_name": "Porção Anéis de Cebola",
+                        "product_price": "R$ 30,00"
+                  }
+            ],
+            "restaurant_name": "Gas N Beer"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Deliciosos brigadeiros Gourmet de Ninho com Nutella e ao leite. Aquele mimo pra você ou pra alguém especial",
+                        "product_name": "Caixa 4un",
+                        "product_price": "R$ 15,00"
+                  },
+                  {
+                        "product_description": "Embalagem presenteavel com 4 brigadeiros sortidos (ao leite e Ninho com Nutella). Acompanha laço e tag para mensagem ️",
+                        "product_name": "Mimo Dia das mães",
+                        "product_price": "R$ 20,00"
+                  }
+            ],
+            "restaurant_name": "Brigadeiros da Be"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Pão Australiano Congelado\n\nO Pão Australiano To Go é um pão escuro, utilizado nos mais variados tipos de pratos, desde hambúrgueres até cafés. Ele vem numa embalagem de 500g, super prático de preparar.\n\nModo de preparo:\n1. Arrume em uma assadeira deixando 5 cm de espaço entre os pães;\n2. Cubra os pães com plástico e espere crescer por 6 horas, se for a noite deixe de 8 a 9 horas;\n3. Aqueça o forno até 180c e asse por 20 minutos ou até dourar.\n4. Para decorar pode-se rolar no fubá e fazer leves cortes nos pães assim que descongelar.\n\nIngredientes: Farinha de trigo enriquecida com ferro e ácido fólico, açúcar, sal refinado iodado, leite, gema de ovos, gordura vegetal, extrato de malte, chocolate, mel, fécula de mandioca e cevada. Contém Glúten. Contém Lactose. Alérgicos: Contém Ovos, Leite, Cevada E Derivados De Trigo, Soja E Malte. Pode Conter Avelã, Amendoim, Amêndoa, Macadâmia, Castanha De Caju, Castanha Do Pará, Pistache, Nozes, Centeio, Aveia E Sulfito.\n\n \nInformação Nutricional",
+                        "product_name": "Pão Australiano 500g",
+                        "product_price": "R$ 23,90R$ 29,90"
+                  },
+                  {
+                        "product_description": "Super novidade! Experimente essa delícia da To Go, Quiche de Casquinha de Siri. Produto congelado, basta colocar na Air Fryer por 12min a 180oc ou no Forno.",
+                        "product_name": "Quiche Casquinha de Siri 100g",
+                        "product_price": "R$ 9,90R$ 11,90"
+                  },
+                  {
+                        "product_description": "Creme de Cebola Congelado\n\nEscolha perfeita para aqueles que buscam algo leve sem abrir mão do sabor. Nosso Creme de Cebola Congelado é uma boa pedida para os vegetarianos e para os fãs dessa opção super cremosa. Preparo rápido trazendo mais praticidade para a sua refeição.\n\nModo De Preparo: Tire a cinta que envolve a embalagem. No micro-ondas esquente por 8 minutos, mexendo de 3 em 3. Se necessário, esquente mais. Cuidado: a embalagem pode estar em alta temperatura após o aquecimento. \n\nIngredientes: Cebola, água, farinha de trigo enriquecida com ferro e ácido fólico, creme de leite, margarina, soro de leite em pó, tempero sabor galinha e especiarias alho, salsa e sal. Contém Glúten. Contém Lactose. Alérgicos: Contém Trigo E Derivados De Leite. Pode Conter Soja, Ovo, Amendoim, Amêndoa, Avelã. Castanha De Caju, Castanha Do Para, Macadâmia, Pistache E Nozes.\n\n \nInformação Nutricional\n Porção 200g (½ unidade)\nQuantidade por porção \t%Vd(*)\nValor energético \t189 kcal = 794 kj \t9\nCarboidra",
+                        "product_name": "Creme de Cebola 400g",
+                        "product_price": "R$ 15,90R$ 17,90"
+                  },
+                  {
+                        "product_description": "Cookies Congelados\nBolinhas do Cookie congeladas para você terminar de assar em casa.\n \n\nModo de preparo: Pré-aqueça o forno a 180º. Forre uma assadeira com papel manteiga. Coloque as bolinhas congeladas sobre a assadeira , deixando um espaçamento de ao menos 4 cm entre elas. Leve ao forno por aproximadamente 20 minutos ou até que estejam com aparência de prontos. Deixe esfriar na assadeira por ao menos 5 minutos. Restire do papel com a ajuda de uma espátula. Depois de assado, consumir no mesmo Dia.",
+                        "product_name": "Cookie de Chocolate 300g",
+                        "product_price": "R$ 17,91R$ 19,90"
+                  },
+                  {
+                        "product_description": "A jaca fit é a versão vegetariana do nosso famoso Frango fit, mas no lugar do frango desfiado, temos uma deliciosa carne de jaca verde temperada, acompanhada de arroz integral e pure de batata doce. Produto congelado.\nProduto Vegetariano",
+                        "product_name": "Carne de Jaca refogada com arroz integral e purê de batata doce",
+                        "product_price": "R$ 23,90"
+                  },
+                  {
+                        "product_description": "Lasanha à Bolonhesa Congelada\n\nLasanha tem muitos fãs e inúmeras versões para agradar a todos os paladares. Uma de nossas opões é a Lasanha à Bolonhesa Congelada, composta por carne moída, presunto, muçarela, parmesão e muito sabor! A refeição é de fácil preparo e pode ser apresentada de diferentes maneiras fora da embalagem.\n\nModo de preparo:\nTire a cinta, a tampa e o plástico de proteção.\nLeve ao forno de micro-ondas em potência média e deixe aquecer de 5 à 7 minutos. Caso seja necessário aquecer por mais tempo, misture cuidadosamente e leve novamente ao forno.\n\n \n\nIngredientes: Água, farinha de trigo enriquecida com ferro e ácido fólico, molho de tomate (tomate, cebola, óleo vegetal, açúcar, sal pimenta do reino, manjericão, salsa e tomilho), carne bovina moída, queijo muçarela, presunto cozido, proteína texturizada de soja, sal, ovo em pó, óleo vegetal de soja, margarina, cebola, farinha de rosca, salsa, queijo parmesão, pimenta do reino e corante natural colorau. Contém Glúten, C",
+                        "product_name": "Lasanha bolonhesa 600g",
+                        "product_price": "R$ 23,90"
+                  }
+            ],
+            "restaurant_name": "TO GO - Refeições, Salgados, Sobremesas"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Pão de dog,  maionese, ervilha, milho, tomate, alface, salsicha e batata palha.",
+                        "product_name": "Dog 2 salsicha",
+                        "product_price": "R$ 14,00"
+                  },
+                  {
+                        "product_description": "Pão de xis, maionese, ovo, queijo e bife.",
+                        "product_name": "Torrada americana",
+                        "product_price": "R$ 13,00"
+                  },
+                  {
+                        "product_description": "Pão de xis, maionese, ervilha, milho, tomate, alface, ovo, queijo, bacon e bife",
+                        "product_name": "X Bacon",
+                        "product_price": "R$ 22,00"
+                  },
+                  {
+                        "product_description": "Pão de xis, maionese, ervilha, milho, tomate, alface, ovo, queijo e frango.",
+                        "product_name": "X Frango",
+                        "product_price": "R$ 19,00"
+                  }
+            ],
+            "restaurant_name": "Ponto 10 Lanches"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Mix de folhas, parmesão ralado, tomate cereja, croutons",
+                        "product_name": "Moda da casa",
+                        "product_price": "R$ 27,00"
+                  },
+                  {
+                        "product_description": "Mix de folhas, macarrão integral, muzzarela de búfala, tomate cereja e ovo de codorna",
+                        "product_name": "Pré treino",
+                        "product_price": "R$ 29,00"
+                  },
+                  {
+                        "product_description": "Mix de folhas, 200 Gramas De Frango, cenoura ralada e ovo de codorna",
+                        "product_name": "Pós treino",
+                        "product_price": "R$ 29,00"
+                  },
+                  {
+                        "product_description": "Mix de folhas, parmesão ralado, muzzarela de búfala, croutons",
+                        "product_name": "Salada caesar",
+                        "product_price": "R$ 27,00"
+                  }
+            ],
+            "restaurant_name": "Lagarta Di Salada"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "",
+                        "product_name": "1 Litro",
+                        "product_price": "R$ 30,00"
+                  },
+                  {
+                        "product_description": "",
+                        "product_name": "300ml",
+                        "product_price": "R$ 12,00"
+                  },
+                  {
+                        "product_description": "",
+                        "product_name": "400ml",
+                        "product_price": "R$ 14,00"
+                  },
+                  {
+                        "product_description": "",
+                        "product_name": "500ml",
+                        "product_price": "R$ 16,00"
+                  }
+            ],
+            "restaurant_name": "Açaí e Lanches da Pretinha"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "5 brigadeiros\n5 cajuzinhos\n5 beijinhos\n5 branquinhos",
+                        "product_name": "Kit doces - 20 unid",
+                        "product_price": "R$ 19,00"
+                  },
+                  {
+                        "product_description": "A nossa queridinha isabel, bem molhadinha com recheio de branquinho, negrinho e morangos",
+                        "product_name": "Isabel",
+                        "product_price": "R$ 16,00"
+                  },
+                  {
+                        "product_description": "Massa bem molhadinha, com recheio de côco com leite condensado, brigadeiro e morangos.",
+                        "product_name": "Morango com côco",
+                        "product_price": "R$ 16,00"
+                  }
+            ],
+            "restaurant_name": "Doce & Cia"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Uma explosão de sabor brigadeiro com mousse de Ninho",
+                        "product_name": "Vulcão choconinho",
+                        "product_price": "R$ 38,25R$ 45,00"
+                  },
+                  {
+                        "product_description": "Massa de Ninho recheio de leite condensado  Ninho e bombom Ouro Branco",
+                        "product_name": "Vulcão Ninho com Ouro Branco",
+                        "product_price": "R$ 42,75R$ 45,00"
+                  },
+                  {
+                        "product_description": "Massa de chocolate com uma cobertura de negrinho mole que entra dentro do bolo cada fatia é uma explosão de sabor",
+                        "product_name": "Bolo brigadeiro",
+                        "product_price": "R$ 24,70R$ 26,00"
+                  },
+                  {
+                        "product_description": "Massa de chocolate com uma cobertura de negrinho mole que entra dentro do bolo cada fatia é uma explosão de sabor",
+                        "product_name": "Bolo brigadeiro",
+                        "product_price": "R$ 24,70R$ 26,00"
+                  },
+                  {
+                        "product_description": "Massa de Ninho recheio de leite condensado  Ninho e bombom Ouro Branco",
+                        "product_name": "Vulcão Ninho com Ouro Branco",
+                        "product_price": "R$ 42,75R$ 45,00"
+                  }
+            ],
+            "restaurant_name": "Bolos Caseiros Juju"
+      },
+      {
+            "products": [
+                  {
+                        "product_description": "Combo de 10 marmitas congeladas, conforme disponibilidade das opçoes no dia.\n(400g cada) \n\n(Obs. escolha as opçoes desejadas pelo chat)",
+                        "product_name": "Combo 10 marmitas",
+                        "product_price": "R$ 165,00"
+                  },
+                  {
+                        "product_description": "Pure de batata doce\ncenoura refogada\nrepolho refogado\nguisadinho",
+                        "product_name": "Opçao 1 (400g)    462kcal",
+                        "product_price": "R$ 17,90"
+                  },
+                  {
+                        "product_description": "Arroz parbolizado\ncenoura refogada\nrepolho refogado\niscas de frango( file de peito)\nmolho mostarda",
+                        "product_name": "Opçao 3 (400g)    502kcal",
+                        "product_price": "R$ 15,90"
+                  },
+                  {
+                        "product_description": "Massa integral multigraos\nmoranga refogada\ncouve refogada\niscas de frango (file de peito)\nmolho mostarda",
+                        "product_name": "Opçao 7 (400g)   683kcal",
+                        "product_price": "R$ 15,90"
+                  }
+            ],
+            "restaurant_name": "Nutribem Marmitas"
+      }
 ]
