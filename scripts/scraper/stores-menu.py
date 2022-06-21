@@ -25,7 +25,8 @@ def menu():
 
     while i < (len(input_data)):
         #getting all the urls saved until the last id
-        target_url = input_data[i]['url']
+        target_url = input_data[i]['store_url']
+        store_id = input_data[i]['store_id']
         driver.get(target_url)
         time.sleep(10)
         page = driver.page_source
@@ -33,17 +34,21 @@ def menu():
         lists = bfs.find_all('main', class_='main-layout')
 
         for list in lists:
+
             products = []
+            product_id = 0
+
             try:
-                restaurant_name = list.find('h1', class_='merchant-info__title').text
+                store_name = list.find('h1', class_='merchant-info__title').text
                 menu = list.find_all('div', class_='restaurant-column')
                 
                 for item in menu:
                     product_name = item.find('h3', class_='dish-card__description').text
                     product_description = item.find('span', class_='dish-card__details').text
-                    product_price = item.find('span', class_='dish-card__price').text
+                    product_price = item.find('span', class_='dish-card__price').text 
 
                     product = {
+                        "product_id": product_id,
                         "product_name": product_name,
                         "product_description": product_description, 
                         "product_price":product_price
@@ -51,19 +56,23 @@ def menu():
 
                     products.append(product)
                     
-                time.sleep(10)
+                    product_id+= 1
+
+                    time.sleep(5)
+                    
                 i+= 1
 
             except AttributeError:
-                restaurant_name = list.find('h1', class_='market-header__title').text
+                store_name = list.find('h1', class_='market-header__title').text
 
                 # print(restaurant_name)
-                time.sleep(20)
+                time.sleep(5)
                 i+= 1
 
             data = {
-                "restaurant_name": restaurant_name,
-                "products": products
+                "store_id": store_id,
+                "store_name": store_name,
+                "store_products": products
             }
 
 

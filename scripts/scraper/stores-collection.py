@@ -23,10 +23,10 @@ def restaurants():
         i+= 1
 
         data = {
-            'id': i,
-            'name': name,
-            'kind': kind,
-            'url': target_url
+            'store_id': i,
+            'store_name': name,
+            'store_kind': kind,
+            'store_url': target_url
         }
 
         output.append(data)
